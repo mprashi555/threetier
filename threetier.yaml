@@ -76,7 +76,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: "mohanraz/frontend"
+        image: "mprashi555/fedfrontend"
         ports:
           - name: http
             containerPort: 80
